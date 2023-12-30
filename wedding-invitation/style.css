@@ -1,0 +1,377 @@
+.container-content-center {
+  /* position: absolute; */
+  max-width: 430px;
+  max-height: auto;
+  overflow: hidden;
+}
+
+/* .bg-content {
+  max-width: 100%;
+  max-height: 100%;
+} */
+
+.bg-content-image {
+  max-width: 100%;
+}
+
+.content-page-1 {
+  position: relative;
+  
+}
+
+/* .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 200px;
+} */
+
+.flower-top {
+  position: relative;
+  /* display: inline; */
+}
+
+.image-flower-4 {
+  position: absolute;
+  
+  max-width: 250px;
+  right: 770px;
+  bottom: 690px;
+}
+
+.img-center {
+  position: relative;
+
+  /* bottom: 785px;
+  left: 109px;
+  height: 380px;
+  width: 210px;
+  border: 3px solid #bdc8b8;
+  border-radius: 100px;
+  padding: 3px;
+  display: flex;
+  justify-content: center; */
+}
+
+
+
+.img-wedding {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 100px;
+  width: 100%;
+  bottom: 405px;
+  left: 109px;
+  height: 380px;
+  width: 210px;
+  border: 3px solid #bdc8b8;
+  border-radius: 100px;
+  padding: 3px;
+  display: flex;
+  justify-content: center;
+}
+
+/* .title-content-top {
+  position: relative;
+} */
+
+.title-wedding-top {
+  position: absolute;
+  top: 120px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 30px;
+  font-family: Merriweather;
+  font-weight: 700;
+  color: #5c6958;
+}
+
+path {
+  fill: transparent;
+}
+
+.text-bride-content {
+  position: relative;
+  
+}
+
+.text-bride {
+  position: absolute;
+  
+  bottom: 100px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 70px;
+  font-family: Libre Baskerville;
+  color: #5c6958;
+}
+
+.wedding-content-date {
+  position: relative;
+  
+}
+
+.wedding-date {
+  position: absolute;
+  bottom: 100px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 210px;
+  height: 50px;
+  border: 2px solid #d89e30;
+  padding: 3px;
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #869580;
+  font-weight: 500;
+}
+
+.wedding-text-arrival {
+  position: absolute;
+  bottom: 80px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: Libre Baskerville;
+  color: #869580;
+  font-size: 13px;
+}
+
+.content-leaf-1 {
+  position: relative;
+  
+}
+
+.img-leaf-1 {
+  position: absolute;
+  bottom: 300px;
+  left: 130%;
+  transform: translate(-50%, -50%);
+  -webkit-filter: drop-shadow(5px 5px 5px #ca9531);
+  filter: drop-shadow(5px 5px 5px #ca9531);
+  max-width: 50px;
+}
+
+.content-leaf-2 {
+  position: relative;
+}
+
+.img-leaf-2 {
+  position: absolute;
+  bottom: 340px;
+  right: 95%;
+  transform: translate(-50%, -50%);
+  -webkit-filter: drop-shadow(5px 5px 5px #ca9531);
+  filter: drop-shadow(5px 5px 5px #ca9531);
+  max-width: 50px;
+}
+
+.flower-bottom-right {
+  position: relative;
+  
+}
+
+.image-flower-2 {
+  position: absolute;
+  max-width: 250px;
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  bottom: 70px;
+  left: 100%;
+  background-size: cover;
+}
+
+.flower-content-middle {
+  position: relative;
+  display: none;
+  
+}
+
+.image-flower-1 {
+  position: absolute;
+  max-width: 400px;
+  bottom: 750px;
+  right: 37%;
+  /* transition:.7s ease-in-out; */
+}
+
+.title-top-invite {
+  position: relative;
+}
+
+.text-invite {
+  position: absolute;
+  width: 100%;
+  bottom: 700px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  font-style: italic;
+  font-family: Libre Baskerville;
+  font-weight: bold;
+  color: #b38b43;
+}
+
+.text-invitation {
+  position: absolute;
+  width: 100%;
+  bottom: 650px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 12px;
+  font-family: Libre Baskerville;
+  color: #869580;
+}
+
+.bride-name-female {
+  position: relative;
+}
+
+.female-name {
+  position: absolute;
+  bottom: 500px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-family: Libre Baskerville;
+  color: #869580;
+}
+
+.female-fam {
+  position: absolute;
+  width: 100%;
+  bottom: 530px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 12px;
+  font-family: Libre Baskerville;
+  color: #869580;
+}
+
+.title-partner {
+  position: relative;
+}
+
+.title-text-partner {
+  position: absolute;
+  bottom: 400px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-family: Libre Baskerville;
+  color: #869580;
+}
+
+.bride-name-male {
+  position: relative;
+}
+
+.male-name {
+  position: absolute;
+  bottom: 320px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-family: Libre Baskerville;
+  color: #869580;
+}
+
+.male-fam {
+  position: absolute;
+  width: 100%;
+  bottom: 350px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 12px;
+  font-family: Libre Baskerville;
+  color: #869580;
+}
+
+.text-quran-content {
+  position: relative;
+}
+
+.text-quran {
+  position: absolute;
+  width: 100%;
+  bottom: 280px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  font-style: italic;
+  font-family: Libre Baskerville;
+  font-weight: bold;
+  color: #c39f51;
+}
+
+.quran-ar-rum {
+  position: absolute;
+  width: 75%;
+  bottom: 120px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 11px;
+  font-family: Libre Baskerville;
+  color: #869580;
+}
+
+.content-leaf-1-bottom {
+  position: relative;
+  display: none;
+}
+
+.img-leaf-1-bottom {
+  position: absolute;
+  bottom: 580px;
+  left: 82%;
+  transform: translate(-50%, -50%);
+  -webkit-filter: drop-shadow(5px 5px 5px #ca9531);
+  filter: drop-shadow(5px 5px 5px #ca9531);
+  max-width: 50px;
+}
+
+.content-leaf-2-bottom {
+  position: relative;
+  display: none;
+}
+
+.img-leaf-2-bottom {
+  position: absolute;
+  bottom: 365px;
+  right: 75%;
+  transform: translate(-50%, -50%);
+  -webkit-filter: drop-shadow(5px 5px 5px #ca9531);
+  filter: drop-shadow(5px 5px 5px #ca9531);
+  max-width: 50px;
+}
+
+.flower-bottom-content {
+  position: relative;
+  
+}
+
+.image-flower-2-bottom {
+  position: absolute;
+  max-width: 500px;
+  bottom: -581px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-size: cover;
+}
+
+.audio {
+  position: relative;
+  
+}
+
+.audio-content {
+  position: fixed;
+  top: 93%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0.5;
+  z-index: 9999;
+}
+
+
